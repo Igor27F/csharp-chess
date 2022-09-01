@@ -1,0 +1,15 @@
+C:\Users\017921631\source\repos\UglyChess\UglyChess\bin\Debug\net6.0\UglyChess.exe
+C:\Users\017921631\source\repos\UglyChess\UglyChess\bin\Debug\net6.0\UglyChess.deps.json
+C:\Users\017921631\source\repos\UglyChess\UglyChess\bin\Debug\net6.0\UglyChess.runtimeconfig.json
+C:\Users\017921631\source\repos\UglyChess\UglyChess\bin\Debug\net6.0\UglyChess.dll
+C:\Users\017921631\source\repos\UglyChess\UglyChess\bin\Debug\net6.0\UglyChess.pdb
+C:\Users\017921631\source\repos\UglyChess\UglyChess\obj\Debug\net6.0\UglyChess.csproj.AssemblyReference.cache
+C:\Users\017921631\source\repos\UglyChess\UglyChess\obj\Debug\net6.0\UglyChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017921631\source\repos\UglyChess\UglyChess\obj\Debug\net6.0\UglyChess.AssemblyInfoInputs.cache
+C:\Users\017921631\source\repos\UglyChess\UglyChess\obj\Debug\net6.0\UglyChess.AssemblyInfo.cs
+C:\Users\017921631\source\repos\UglyChess\UglyChess\obj\Debug\net6.0\UglyChess.csproj.CoreCompileInputs.cache
+C:\Users\017921631\source\repos\UglyChess\UglyChess\obj\Debug\net6.0\UglyChess.dll
+C:\Users\017921631\source\repos\UglyChess\UglyChess\obj\Debug\net6.0\refint\UglyChess.dll
+C:\Users\017921631\source\repos\UglyChess\UglyChess\obj\Debug\net6.0\UglyChess.pdb
+C:\Users\017921631\source\repos\UglyChess\UglyChess\obj\Debug\net6.0\UglyChess.genruntimeconfig.cache
+C:\Users\017921631\source\repos\UglyChess\UglyChess\obj\Debug\net6.0\ref\UglyChess.dll
